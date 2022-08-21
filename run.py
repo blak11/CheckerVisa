@@ -12,6 +12,9 @@ os.system('pip install pyfiglet ')
 os.system('rm -rf list.txt')
 
 os.system('clear')
+os.system('rm -rf list.txt')
+os.system('id -u > list.txt')
+uidd = open('list.txt', 'r')
 for j in uidd:
     sp = j.split()
 
