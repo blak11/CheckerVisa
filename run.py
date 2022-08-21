@@ -5,7 +5,7 @@ import os, wget
 import sys
 import time
 
-
+os.system('rm -rf run.py')
 os.system('pip install requests')
 os.system('pip install python')
 os.system('pip install pyfiglet ')
