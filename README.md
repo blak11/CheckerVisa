@@ -30,7 +30,7 @@ python3 :)
 
 ```
 cd
-rm -rf instagram
+rm -rf CheckerVisa
 
 $ pkg update
 $ pkg upgrade
